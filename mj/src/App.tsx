@@ -4,7 +4,7 @@ import {Component as Navbar}  from './components/navbar/Navbar'
 import CheerUp from "./components/cheer/CheerUp";
 import Gallery from "./components/gallery/Gallery";
 import Reminder from "./components/reminder/Reminder";
-import Songs from "./components/songs/Songs"
+
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
         <Gallery />
         <Reminder />
         </> } />
-        <Route path="/songs" element={<Songs />} />
+   
 
     </Routes>
    </Router>
