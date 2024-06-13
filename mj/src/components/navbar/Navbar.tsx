@@ -24,7 +24,6 @@ export function Component() {
         <Navbar.Link href="#cheer">Message</Navbar.Link>
         <Navbar.Link href="#gallery">Gallery</Navbar.Link>
         <Navbar.Link href="#reminder">Reminder</Navbar.Link>
-        <Navbar.Link href="/songs">Song</Navbar.Link>
       </Navbar.Collapse>
       </div>
     </Navbar>
