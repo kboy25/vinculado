@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.cheer{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    height: 80vh;
+}
+.cheer-img{
+    width: 100%;
+    max-width: 500px;
+}
+.cheer-content{
+    width: 100%;
+    max-width: 800px;
+}
